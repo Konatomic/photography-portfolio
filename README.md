@@ -19,8 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -63,19 +61,14 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## 📧 Contact <a name="contact"></a>
-
-João Franco - https://www.linkedin.com/in/joão-franco-452161195/
-
-Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## 🌟 Acknowledgments <a name="acknowledgments"></a>
+
+Template creator:
+João Franco - https://www.linkedin.com/in/joão-franco-452161195/
+
+Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/)
 
 - [FancyBox](https://fancyapps.com/fancybox/)
 - [Unsplash](https://unsplash.com/)
